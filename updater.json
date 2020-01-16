@@ -2,7 +2,7 @@
   "kernel": {
     "name": "Guzzo Kernel | mido",
     "version": "r2.0",
-    "link": "https://drive.google.com/file/d/1-ERJvgmnroYC2moCnqtayyoOo4CXnv3o/view?usp\u003ddrivesdk",
+    "link": "https://github.com/Zile995/android_kernel_xiaomi_msm8953/releases/download/r43/UndergroundKernel-mido-20200115.zip",
     "changelog_url": "https://raw.githubusercontent.com/NuBie/p/master/changelog",
     "date": "2020-01-17",
     "sha1": "ffd1c3fbb0e91b222840cecb5218d9949493ef10"
