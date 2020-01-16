@@ -3,14 +3,12 @@
 Device: Redmi Note 4(X) Snapdragon (mido)
 Compiler: AOSP Clang 10.0.1
 
-- Disable silence logging & audit
+- Disable silence logging
 - fix WhatsApp call random reboot
 - Added New Bug (fixing soon) :p
 - Merge latest aosp/android-3.18 branch (January 2020 security patch)
 - Merge latest CAF tag & Prima wlan driver tag
-- Fix other old upstream issue for missing changes on aosp-3.18 (Thanks to @krasCGQ)
-- Apply ion/iommu optimizations from @Kerneltoast (Thanks to @ramadhanr124 & @Zile995)
-- MSM Thermal optimizations
+- Apply ion/iommu optimizations
 - pwrxutil scheduler improvement
 - Memcmp optimizations
 - Improve CPUSets Assist
@@ -18,7 +16,6 @@ Compiler: AOSP Clang 10.0.1
 - Disable other left debugfs drivers
 - Disable auditing on selinux
 - Disable backlight dimmer by default
-- Disable several audio tweaks features by default
 - Disable sched_boost tune on kernel features
 - Removed Boeffla Wakelock Blocker
 - Other misc optimizations
