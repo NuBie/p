@@ -1,3 +1,5 @@
+**New update found: 2020-01-17
+
 **Kernel: Guzzo Kernel**
 
 Device: Redmi Note 4(X) Snapdragon (mido)
@@ -15,7 +17,6 @@ Compiler: AOSP Clang 10.0.1
 - Implement crypto NEON XOR accelerated + CRC32 performance
 - Disable other left debugfs drivers
 - Disable auditing on selinux
-- Disable backlight dimmer by default
 - Disable sched_boost tune on kernel features
 - Removed Boeffla Wakelock Blocker
 - Other misc optimizations
