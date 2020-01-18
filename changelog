@@ -5,19 +5,12 @@
 Device: Redmi Note 4(X) Snapdragon (mido)
 Compiler: AOSP Clang 10.0.1
 
-- Disable silence logging
-- fix WhatsApp call random reboot
-- Added New Bug (fixing soon) :p
-- Merge latest aosp/android-3.18 branch (January 2020 security patch)
-- Merge latest CAF tag & Prima wlan driver tag
-- Apply ion/iommu optimizations
-- pwrxutil scheduler improvement
-- Memcmp optimizations
-- Improve CPUSets Assist
-- Implement crypto NEON XOR accelerated + CRC32 performance
-- Disable other left debugfs drivers
-- Disable auditing on selinux
-- Disable sched_boost tune on kernel features
-- Removed Boeffla Wakelock Blocker
-- Other misc optimizations
-
+- f1b7ed2 ANDROID: sdcardfs: Alloc memory only when needed in __sdcardfs_lookup()
+- e0209d9 Revert "ANDROID: sdcardfs: Allocate temporary name buffer on the stack"
+- 6640912 mido_defconfig: Enable RPM STATS driver
+- 2e27a82 mido_defconfig: disable CONFIG_DEBUG_FS
+- b9a9990 Revert "mido_defconfig: CONFIG_QPNP_LEGACY_CYCLE_COUNT=y"
+- 101a9c3 kernel: power: process: decrease task freezing timeout
+- 9b9a8fc mido_defconfig: disable polly
+- 20e8841 Revert "kbuild: Add support for LLVM's Polly optimizer"
+- 49b182c (aosp common) Merge branch 'android-3.18'
