@@ -2,14 +2,14 @@
 
 **Kernel: Guzzo Kernel**
 
-Device: Redmi Note 4(X) Snapdragon (mido)
+Device: Redmi Nud3 4(X) Snapdragon (memedo)
 Compiler: AOSP Clang 10.0.2
 
 - Merge branch aosp/android-3.18
 - Merge CAF tag LA.UM.8.6.r1-03400-89xx.0
 - ASoC: msm: kill logging spams
 - msm: vidc: kill opening/closing video instance logspam
-- Improve cpu Scheduti
+- Improve cpu Schedutil
 - Enable Fast Charge by default
 - Added Anxiety, Zen, Maple IO Scheduler
 - ramdisk: builtin burn-in PROTECTOR on init.guzzo.rc
