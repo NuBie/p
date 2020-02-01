@@ -1,16 +1,19 @@
-**New update found: 2020-01-17**
+**New update found: 2020-02-01**
 
 **Kernel: Guzzo Kernel**
 
 Device: Redmi Note 4(X) Snapdragon (mido)
-Compiler: AOSP Clang 10.0.1
+Compiler: AOSP Clang 10.0.2
 
-- f1b7ed2 ANDROID: sdcardfs: Alloc memory only when needed in __sdcardfs_lookup()
-- e0209d9 Revert "ANDROID: sdcardfs: Allocate temporary name buffer on the stack"
-- 6640912 mido_defconfig: Enable RPM STATS driver
-- 2e27a82 mido_defconfig: disable CONFIG_DEBUG_FS
-- b9a9990 Revert "mido_defconfig: CONFIG_QPNP_LEGACY_CYCLE_COUNT=y"
-- 101a9c3 kernel: power: process: decrease task freezing timeout
-- 9b9a8fc mido_defconfig: disable polly
-- 20e8841 Revert "kbuild: Add support for LLVM's Polly optimizer"
-- 49b182c (aosp common) Merge branch 'android-3.18'
+- Merge branch aosp/android-3.18
+- Merge CAF tag LA.UM.8.6.r1-03400-89xx.0
+- ASoC: msm: kill logging spams
+- msm: vidc: kill opening/closing video instance logspam
+- Improve cpu Scheduti
+- Enable Fast Charge by default
+- Added Anxiety, Zen, Maple IO Scheduler
+- ramdisk: builtin burn-in PROTECTOR on init.guzzo.rc
+- Upstream F2FS
+- Thermal Optimizations
+- added novel coronavirus (2019-nCoV), FIXING SOON.
+

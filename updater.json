@@ -1,10 +1,10 @@
 {
   "kernel": {
     "name": "Guzzo Kernel | Mido",
-    "version": "r2.4",
+    "version": "r2.5",
     "link": "https://drive.google.com/file/d/1cju1s-amZfjsgK2zGOHPiK-If0otFRw0/view?usp=sharing",
     "changelog_url": "https://raw.githubusercontent.com/NuBie/p/master/changelog",
-    "date": "2020-01-18",
+    "date": "2020-02-01",
     "sha1": "e647150118e0fae8213c8210917fe41b05168d54"
   },
   "support": {
