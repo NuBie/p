@@ -1,19 +1,17 @@
-**New update found: 2020-02-01**
+**New update found: 2020-08-18**
 
 **Kernel: Guzzo Kernel**
 
-Device: Redmi Nud3 4(X) Snapdragon (memedo)
-Compiler: AOSP Clang 10.0.2
+Device: Pasal Karet 
+Compiler: Kacung-JRX !
 
-- Merge branch aosp/android-3.18
-- Merge CAF tag LA.UM.8.6.r1-03400-89xx.0
-- ASoC: msm: kill logging spams
-- msm: vidc: kill opening/closing video instance logspam
-- Improve cpu Schedutil
-- Enable Fast Charge by default
-- Added Anxiety, Zen, Maple IO Scheduler
-- ramdisk: builtin burn-in PROTECTOR on init.guzzo.rc
-- Upstream F2FS
-- Thermal Optimizations
-- added novel coronavirus (2019-nCoV), FIXING SOON.
+- #BebaskanJRXSID
+- #BebaskanJRXSID
+- #BebaskanJRXSID
+
+**Suara-suara itu tak bisa dipenjarakan di sana bersemayam kemerdekaan**
+
+-Widji Thukul-
+
+
 
