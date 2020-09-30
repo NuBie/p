@@ -1,20 +1,14 @@
-**New update found: 2020-08-18**
+**New update found: 2020-09-30**
 
-**Kernel: Guzzo Kernel**
-
-Device: Pasal Karet 
-
-Compiler: Kacung-JRX !
+Compiler: Bootloop.inc™ (based on CLANG 11.0.1)
 
 Changelog: 
 
-- #BebaskanJRXSID
-- #BebaskanJRXSID
-- #BebaskanJRXSID
-
-**-Suara-suara itu tak bisa dipenjarakan di sana bersemayam kemerdekaan-**
-
--Widji Thukul-
+- PRIMA: Merge tag 'LA.UM.8.6.c26-01100-89xx.0' CAF
+- Driver: Merge tag 'LA.UM.8.6.c26-01100-89xx.0' CAF
+- AOSP: Merge branch 'android-3.18'/2020-09-30
+- fix thermal issue (lol)
+- added new bug ! 
 
 
 
